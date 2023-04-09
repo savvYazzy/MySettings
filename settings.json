@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Default Dark+", // My personal theme
+    "git.autofetch": true,
+    "php.validate.executablePath": "/Applications/XAMPP/xamppfiles/bin/php-8.2.0", // php path to xampp
+    "php.executablePath": "/Applications/XAMPP/xamppfiles/bin/php-8.2.0", // php path to xampp
+    "git.confirmSync": false,
+    "editor.fontSize": 11.7, // Sets the font size to 14
+    "files.autoSave": "afterDelay", // Autosaves files
+    "files.autoSaveDelay": 1000,
+    "editor.tabSize": 2, // Sets the number of spaces per tab to 2
+    "editor.wordWrap": "on", // Wraps lines that exceed the viewport width
+    "editor.renderWhitespace": "boundary", // Shows whitespace characters only at the beginning and end of lines
+    "files.insertFinalNewline": true, // Inserts a newline at the end of each file
+    "editor.tabCompletion": "on" // completes suggested code by clicking the 'tab' key
+    
+}
+
+
